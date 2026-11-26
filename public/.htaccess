@@ -1,0 +1,6 @@
+# KSM Consulting – redirects from old WordPress URLs
+# This file is copied into /dist on every build. Upload it to public_html with the rest of /dist.
+
+# Permanent (301) redirects
+# Test page not moved to the new site (owner decision 2026-11-26)
+RedirectMatch 301 ^/form-page-testing/?$ /contact-us/
